@@ -1,0 +1,16 @@
+pandas
+scipy
+scikit-learn
+seaborn
+bs4
+matplotlib
+sqlalchemy
+missingno
+requests
+ipykernel
+imbalanced-learn
+category_encoders
+nltk
+umap-learn
+beautifulsoup4
+sqlalchemy
