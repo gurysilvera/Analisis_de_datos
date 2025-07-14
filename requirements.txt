@@ -14,3 +14,4 @@ nltk
 umap-learn
 beautifulsoup4
 sqlalchemy
+geopandas
