@@ -19,3 +19,21 @@ pip install -r  requirements.txt
 # Agregar un nuevo kernel
 python -m ipykernel install --user --name adedtp --display-name "Analisis de datos TP"
 ```
+
+## TP2
+El TP2 se encuentra en la notebook en el archivo `tp2.ipynb`. Las dependencias fueron instaladas utilizando `venv` y `pip`. 
+
+La siguiente es una guia de como instalar las dependencias:
+```bash
+# Crear el entorno virtual 
+python -m venv .venv
+
+# Activarlo
+source .venv/bin/activate
+
+# Instalar las dependencias
+pip install -r  requirements.txt
+
+# Agregar un nuevo kernel
+python -m ipykernel install --user --name adedtp --display-name "Analisis de datos TP"
+```
